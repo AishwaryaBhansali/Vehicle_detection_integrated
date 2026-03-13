@@ -1,0 +1,13 @@
+Node js installation
+Create a new folder
+Create a virtual env
+npm create vite@latest
+cd vdetection
+npm install
+npm run dev
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+pip install fastapi uvicorn python-multipart
+pip install fastapi uvicorn numpy opencv-python torch torchvision ultralytics tensorflow keras
+npm install axios         
+pip install python-multipart       
+npm install axios --legacy-peer-deps
